@@ -1525,3 +1525,7 @@
 [20:59:04] [Server thread/INFO]: SLOT issued server command: /
 [20:59:12] [Server thread/INFO]: SLOT lost connection: Disconnected
 [20:59:12] [Server thread/INFO]: SLOT left the game.
+[21:01:55] [Thread-15/INFO]: UUID of player SLOT is 5a2363a3-f418-3f56-8896-db9063e3753f
+[21:01:55] [Server thread/INFO]: SLOT[/[0:0:0:0:0:0:0:1]:49774] logged in with entity id 3535 at ([world]250.09072305745084, 66.0, 309.7361663999311)
+[21:03:44] [Server thread/INFO]: SLOT lost connection: Disconnected
+[21:03:44] [Server thread/INFO]: SLOT left the game.

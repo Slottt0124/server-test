@@ -89,3 +89,11 @@
 [20:59:12] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:48048|SLOT] -> UpstreamBridge has disconnected
 [20:59:12] [Netty Worker IO Thread #2/INFO]: [SLOT] disconnected with: Proxy lost connection to server.
 [20:59:12] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:48048|SLOT] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:01:55] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45226]: Connected via websocket
+[21:01:55] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45226]: Origin header is https://eaglercraft.com
+[21:01:55] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45226]: Logged in as 'SLOT'
+[21:01:55] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:45226|SLOT] -> UpstreamBridge has connected
+[21:01:55] [Netty Worker IO Thread #1/INFO]: [SLOT|/[0:0:0:0:0:0:0:1%0]:45226] <-> ServerConnector [lobby] has connected
+[21:03:44] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:45226|SLOT] -> UpstreamBridge has disconnected
+[21:03:44] [Netty Worker IO Thread #1/INFO]: [SLOT] disconnected with: Proxy lost connection to server.
+[21:03:44] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:45226|SLOT] <-> DownstreamBridge <-> [lobby] has disconnected
