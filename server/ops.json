@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "5a2363a3-f418-3f56-8896-db9063e3753f",
+    "name": "SLOT",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
